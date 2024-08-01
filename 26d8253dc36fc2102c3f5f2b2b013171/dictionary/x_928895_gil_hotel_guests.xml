@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="384ae1bdc36fc2102c3f5f2b2b0131ba" extends="sys_user" label="Guests" max_length="40" name="x_928895_gil_hotel_guests" type="collection">
         <element label="Membership Number" mandatory="true" max_length="32" name="membership_number" type="integer"/>
-        <element choice="1" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+        <element choice="3" default="Standard" label="Type" mandatory="true" max_length="40" name="type" type="choice">
             <choice>
-                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Standard" sequence="100" value="Standard"/>
+                <element inactive_on_update="false" label="VIP" sequence="200" value="VIP"/>
             </choice>
         </element>
         <element label="Breakfast Service" max_length="40" name="breakfast_service" read_only="true" type="boolean"/>
