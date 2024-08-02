@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="c879a17dc36fc2102c3f5f2b2b013140" label="Room" max_length="40" name="x_928895_gil_hotel_room" type="collection">
+        <element label="Floor" mandatory="true" max_length="3" name="floor" type="integer"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
-        <element label="Number" max_length="40" name="number" type="integer"/>
+        <element choice="3" default="Private" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Double" value="Double"/>
+                <element inactive_on_update="false" label="Private" value="Private"/>
+            </choice>
+        </element>
+        <element label="Number" mandatory="true" max_length="32" name="number" type="integer"/>
     </element>
 </database>
