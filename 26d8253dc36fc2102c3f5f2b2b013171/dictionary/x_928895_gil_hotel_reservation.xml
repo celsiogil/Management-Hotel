@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="06a2ad7cc34852102c3f5f2b2b013117" label="Reservation" max_length="40" name="x_928895_gil_hotel_reservation" type="collection">
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element choice="1" label="Room Type" max_length="40" name="room_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Double" value="Double"/>
+                <element inactive_on_update="false" label="Private" value="Private"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Room" max_length="32" name="room" reference="x_928895_gil_hotel_room" type="reference"/>
+        <index name="index">
+            <element name="room"/>
+        </index>
+    </element>
+</database>
