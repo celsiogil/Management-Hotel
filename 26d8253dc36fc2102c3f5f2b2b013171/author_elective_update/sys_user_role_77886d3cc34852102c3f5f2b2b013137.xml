@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_928895_gil_hotel.reservation_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>reservation_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 16:11:07</sys_created_on>
+        <sys_id>77886d3cc34852102c3f5f2b2b013137</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_928895_gil_hotel.reservation_user</sys_name>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_update_name>sys_user_role_77886d3cc34852102c3f5f2b2b013137</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 16:11:07</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</application>
+        <file_path/>
+        <instance_id>557bf0121b8a8a5478c7cb7b234bcb3b</instance_id>
+        <instance_name>dev266866</instance_name>
+        <name>sys_user_role_77886d3cc34852102c3f5f2b2b013137</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_928895_gil_hotel.reservation_user</name><scoped_admin>false</scoped_admin><suffix>reservation_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 16:11:07</sys_created_on><sys_id>77886d3cc34852102c3f5f2b2b013137</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_928895_gil_hotel.reservation_user</sys_name><sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package><sys_policy/><sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope><sys_update_name>sys_user_role_77886d3cc34852102c3f5f2b2b013137</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 16:11:07</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1900341467</payload_hash>
+        <record_name>x_928895_gil_hotel.reservation_user</record_name>
+        <reverted_from/>
+        <source>c941bac6c3a746102c3f5f2b2b013179</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 16:11:07</sys_created_on>
+        <sys_id>b3882174c38852102c3f5f2b2b01312d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914c81e6530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 16:11:07</sys_updated_on>
+        <type>Role</type>
+        <update_guid>77882174d18852105725c039bb58622c</update_guid>
+        <update_guid_history>77882174d18852105725c039bb58622c:-1900341467</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_928895_gil_hotel.reservation_user">8055e311c34412102c3f5f2b2b0131fb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 14:33:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>237eac954a4e46fdad9117a9051d67e1</sys_id>
+        <sys_metadata>77886d3cc34852102c3f5f2b2b013137</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_928895_gil_hotel.reservation_user</sys_name>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_scope_delete display_value="">890a51cc62f34d4383a54b4042a340e9</sys_scope_delete>
+        <sys_update_name>sys_user_role_77886d3cc34852102c3f5f2b2b013137</sys_update_name>
+        <sys_update_version display_value="sys_user_role_77886d3cc34852102c3f5f2b2b013137">b3882174c38852102c3f5f2b2b01312d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 14:33:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

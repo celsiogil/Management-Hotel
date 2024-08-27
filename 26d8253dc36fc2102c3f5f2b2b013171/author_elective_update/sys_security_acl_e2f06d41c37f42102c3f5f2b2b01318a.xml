@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_928895_gil_hotel_u_check_in</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_928895_gil_hotel_u_check_in</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 00:00:46</sys_created_on>
+        <sys_id>e2f06d41c37f42102c3f5f2b2b01318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_928895_gil_hotel_u_check_in</sys_name>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_update_name>sys_security_acl_e2f06d41c37f42102c3f5f2b2b01318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-02 00:00:46</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</application>
+        <file_path/>
+        <instance_id>557bf0121b8a8a5478c7cb7b234bcb3b</instance_id>
+        <instance_name>dev266866</instance_name>
+        <name>sys_security_acl_e2f06d41c37f42102c3f5f2b2b01318a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description>Default access control on x_928895_gil_hotel_u_check_in</description><local_or_existing>Local</local_or_existing><name>x_928895_gil_hotel_u_check_in</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-02 00:00:46</sys_created_on><sys_id>e2f06d41c37f42102c3f5f2b2b01318a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_928895_gil_hotel_u_check_in</sys_name><sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package><sys_policy/><sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope><sys_update_name>sys_security_acl_e2f06d41c37f42102c3f5f2b2b01318a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-02 00:00:46</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1834798941</payload_hash>
+        <record_name>x_928895_gil_hotel_u_check_in</record_name>
+        <reverted_from/>
+        <source>c941bac6c3a746102c3f5f2b2b013179</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 00:00:46</sys_created_on>
+        <sys_id>eaf06d41c37f42102c3f5f2b2b01318c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191106393230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-02 00:00:46</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>eef06d411f7f4210aae73f66924ac78b</update_guid>
+        <update_guid_history>eef06d411f7f4210aae73f66924ac78b:-1834798941</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 14:34:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>a214b2c92160484aac9eb18d78d4ca84</sys_id>
+        <sys_metadata>e2f06d41c37f42102c3f5f2b2b01318a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_928895_gil_hotel_u_check_in</sys_name>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_parent display_value="x_928895_gil_hotel_u_check_in">f2f06d41c37f42102c3f5f2b2b0131c2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_scope_delete display_value="">890a51cc62f34d4383a54b4042a340e9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_e2f06d41c37f42102c3f5f2b2b01318a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_e2f06d41c37f42102c3f5f2b2b01318a">eaf06d41c37f42102c3f5f2b2b01318c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 14:34:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

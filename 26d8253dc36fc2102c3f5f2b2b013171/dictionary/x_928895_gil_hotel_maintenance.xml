@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" db_object_id="08997cbdc38c52102c3f5f2b2b013104" extends="task" label="Maintenance" max_length="40" name="x_928895_gil_hotel_maintenance" type="collection">
+        <element label="Room" max_length="32" name="room" reference="x_928895_gil_hotel_room" type="reference"/>
+    </element>
+</database>
