@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Gil Hotels ">d379257dc36fc2102c3f5f2b2b013121</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Check-In </mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>cmdb_ci_lb_a10</name>
+        <order>300</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-26 15:49:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5096668c3a11210baccf3cc050131b0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Check-In </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_update_name>sys_app_module_d5096668c3a11210baccf3cc050131b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-26 15:50:57</sys_updated_on>
+        <timeline_page/>
+        <title>Check-In </title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</application>
+        <file_path/>
+        <instance_id>f0bdefd1dbc64a50ebdd2a5913961905</instance_id>
+        <instance_name>dev265520</instance_name>
+        <name>sys_app_module_d5096668c3a11210baccf3cc050131b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Gil Hotels ">d379257dc36fc2102c3f5f2b2b013121</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Check-In </mobile_title><mobile_view_name>Mobile</mobile_view_name><name>cmdb_ci_lb_a10</name><order>300</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-26 15:49:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d5096668c3a11210baccf3cc050131b0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Check-In </sys_name><sys_overrides/><sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package><sys_policy/><sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope><sys_update_name>sys_app_module_d5096668c3a11210baccf3cc050131b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-26 15:50:57</sys_updated_on><timeline_page/><title>Check-In </title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>242251299</payload_hash>
+        <record_name>Check-In </record_name>
+        <reverted_from/>
+        <source>797bd401c38d1210baccf3cc05013158</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-26 15:50:57</sys_created_on>
+        <sys_id>8e992aa8c3a11210baccf3cc05013157</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192c98608640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-26 15:50:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>06992aa8eaa112108248dd1260e48157</update_guid>
+        <update_guid_history>06992aa8eaa112108248dd1260e48157:242251299,ed296a68e9a11210bdd576b48466c97c:-1099334112</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Check-In ">92c9aaa8c3a11210baccf3cc0501312e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-26 15:51:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>750a82d44ac44ebfa659cf7619b51b61</sys_id>
+        <sys_metadata>d5096668c3a11210baccf3cc050131b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci_lb_a10</sys_name>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_scope_delete display_value="">890a51cc62f34d4383a54b4042a340e9</sys_scope_delete>
+        <sys_update_name>sys_app_module_d5096668c3a11210baccf3cc050131b0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d5096668c3a11210baccf3cc050131b0">8e992aa8c3a11210baccf3cc05013157</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-26 15:51:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
