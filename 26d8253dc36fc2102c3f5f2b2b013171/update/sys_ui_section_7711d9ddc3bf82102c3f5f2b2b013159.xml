@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7711d9ddc3bf82102c3f5f2b2b013159" sys_domain="global" table="x_928895_gil_hotel_u_check_in" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>guest</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-02 22:20:13</sys_created_on>
+            <sys_id>1e8c1405c38d1210baccf3cc050131db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_928895_gil_hotel_u_check_in" sys_domain="global" view="Default view">7711d9ddc3bf82102c3f5f2b2b013159</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-02 22:20:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>room</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-02 22:20:13</sys_created_on>
+            <sys_id>968c1405c38d1210baccf3cc050131dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_928895_gil_hotel_u_check_in" sys_domain="global" view="Default view">7711d9ddc3bf82102c3f5f2b2b013159</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-02 22:20:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-02 22:20:13</sys_created_on>
+            <sys_id>1e8c1405c38d1210baccf3cc050131dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_928895_gil_hotel_u_check_in" sys_domain="global" view="Default view">7711d9ddc3bf82102c3f5f2b2b013159</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-02 22:20:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-02 22:20:13</sys_created_on>
+            <sys_id>928c1405c38d1210baccf3cc050131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_928895_gil_hotel_u_check_in" sys_domain="global" view="Default view">7711d9ddc3bf82102c3f5f2b2b013159</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-02 22:20:13</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check_in_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-02 22:20:13</sys_created_on>
+            <sys_id>1a8c1405c38d1210baccf3cc050131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_928895_gil_hotel_u_check_in" sys_domain="global" view="Default view">7711d9ddc3bf82102c3f5f2b2b013159</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-02 22:20:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-02 22:20:13</sys_created_on>
+            <sys_id>9e8c1405c38d1210baccf3cc050131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_928895_gil_hotel_u_check_in" sys_domain="global" view="Default view">7711d9ddc3bf82102c3f5f2b2b013159</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-02 22:20:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check_in_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-02 22:20:13</sys_created_on>
+            <sys_id>168c1405c38d1210baccf3cc050131de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_928895_gil_hotel_u_check_in" sys_domain="global" view="Default view">7711d9ddc3bf82102c3f5f2b2b013159</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-02 22:20:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_928895_gil_hotel_u_check_in</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-02 17:29:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7711d9ddc3bf82102c3f5f2b2b013159</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_928895_gil_hotel_u_check_in</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+            <sys_update_name>sys_ui_section_7711d9ddc3bf82102c3f5f2b2b013159</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-02 17:29:58</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

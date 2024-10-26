@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 14:15:04</sys_created_on>
+        <sys_id>36ff1f59c30412102c3f5f2b2b013140</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_928895_gil_hotel.Gardiner Hotel Manager</sys_name>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_security_acl display_value="">18ffdb59c30412102c3f5f2b2b013148</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_36ff1f59c30412102c3f5f2b2b013140</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 14:15:04</sys_updated_on>
+        <sys_user_role display_value="x_928895_gil_hotel.Gardiner Hotel Manager" name="x_928895_gil_hotel.Gardiner Hotel Manager">b8c2be91c34012102c3f5f2b2b013153</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</application>
+        <file_path/>
+        <instance_id>557bf0121b8a8a5478c7cb7b234bcb3b</instance_id>
+        <instance_name>dev266866</instance_name>
+        <name>sys_security_acl_role_36ff1f59c30412102c3f5f2b2b013140</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-15 14:15:04</sys_created_on><sys_id>36ff1f59c30412102c3f5f2b2b013140</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_928895_gil_hotel.Gardiner Hotel Manager</sys_name><sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package><sys_policy/><sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope><sys_security_acl display_value="">18ffdb59c30412102c3f5f2b2b013148</sys_security_acl><sys_update_name>sys_security_acl_role_36ff1f59c30412102c3f5f2b2b013140</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-15 14:15:04</sys_updated_on><sys_user_role display_value="x_928895_gil_hotel.Gardiner Hotel Manager" name="x_928895_gil_hotel.Gardiner Hotel Manager">b8c2be91c34012102c3f5f2b2b013153</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-263177146</payload_hash>
+        <record_name>.x_928895_gil_hotel.Gardiner Hotel Manager</record_name>
+        <reverted_from/>
+        <source>c941bac6c3a746102c3f5f2b2b013179</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 14:15:04</sys_created_on>
+        <sys_id>eb212f99c30412102c3f5f2b2b0131e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19156645fea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 14:15:04</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>ef212f9911041210161da00c6c1953e5</update_guid>
+        <update_guid_history>ef212f9911041210161da00c6c1953e5:-263177146</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_928895_gil_hotel.Gardiner Hotel Manager">5bb5ab11c34412102c3f5f2b2b01316d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 14:34:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3a3a9c580a7f4f5884ae37a76c12b509</sys_id>
+        <sys_metadata>36ff1f59c30412102c3f5f2b2b013140</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_928895_gil_hotel.Gardiner Hotel Manager</sys_name>
+        <sys_package display_value="Gil Hotels " source="x_928895_gil_hotel">26d8253dc36fc2102c3f5f2b2b013171</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gil Hotels ">26d8253dc36fc2102c3f5f2b2b013171</sys_scope>
+        <sys_scope_delete display_value="">890a51cc62f34d4383a54b4042a340e9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_36ff1f59c30412102c3f5f2b2b013140</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_36ff1f59c30412102c3f5f2b2b013140">eb212f99c30412102c3f5f2b2b0131e6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 14:34:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
